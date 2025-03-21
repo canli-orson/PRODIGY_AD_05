@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="camera_preview">Camera Preview</string>
+    <string name="qr_frame">QR Code Scanner Frame</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="open_url">Open URL</string>
+    <string name="camera_permission_required">Camera permission is required!</string>
+    <string name="error_starting_camera">Error starting camera: %1$s</string>
+    <string name="error_binding_camera">Error binding camera use cases: %1$s</string>
+    <string name="error_scanning_code">Error scanning code: %1$s</string>
+    <string name="open_url_title">Open URL</string>
+    <string name="open_url_message">Do you want to open: %1$s</string>
+    <string name="button_open">Open</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
